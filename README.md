@@ -14,6 +14,7 @@
 -   **Crawling and Fuzzing**: Automatically crawls the website to discover hidden directories, files, and potential attack surfaces.
 -   **Customizable Scanning Profiles**: Allows users to customize scan profiles based on specific use cases, e.g., only scanning for XSS or SQL injection vulnerabilities.
 -   **Detailed Reporting**: Generates in-depth reports outlining all detected vulnerabilities, along with descriptions, potential risks, and remediation steps.
+-   **AND PLENTY MORE** : Theres way more features in this simple vulnerability scanner
 
 ## Why Choose at0m?
 
@@ -52,10 +53,19 @@ To install **at0m**, you can simply clone the repository and install the require
 # 1 ) Clone the repository 
 git clone https://github.com/d4niel-fr/at0m-scanner
 
+```
+```
+
 # 2 ) Navigate to the at0m directory 
 cd at0m-scanner
 
+```
+```
 # 3 ) Install dependencies 
 pip install -r requirements.txt
 ```
-now to run **at0m**, you can simply open the *main.py*
+now to run **at0m**, you can simply open the *main.py* or 
+```
+python main.py
+
+```
